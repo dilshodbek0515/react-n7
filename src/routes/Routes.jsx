@@ -6,7 +6,7 @@ import Vozvrat from "../pages/vozvrat/Vozvrat"
 import Garant from "../pages/garant/Garant"
 import Contact from "../pages/contact/Contact"
 import Blog from "../pages/blog/Blog"
-import Error from "../pages/Error/Error"
+import Error from "../pages/error/Error"
 import Header from "../components/header/Header"
 import Footer from "../components/footer/Footer"
 
